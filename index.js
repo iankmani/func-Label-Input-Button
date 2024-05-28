@@ -6,10 +6,14 @@ document.getElementById("myButton").onclick = function(){
     document.getElementById("myLabel").innerHTML = "hello " + username;
   
 }
+
+//check console for answer>.....
+
+
 //To prompt a inputbox:>>>
 // let username = window.prompt("what's Your Name?");
 // console.log(username);
-//check console for answer>
+
 
 
 //to change variables to a different datatype
@@ -18,3 +22,14 @@ document.getElementById("myButton").onclick = function(){
 // age += 1;
 // console.log("happy Birthday bro! you are", age ,"years old.");
 
+//circumference of a circle
+//  let pi = 3.14;
+//  let radius;
+//  let circumference;
+
+//  radius = window.prompt("Enter the radius of a circle:");
+//  radius =Number(radius);
+
+//  circumference = 2 * pi * radius;
+ 
+//  console.log("the circumference is", circumference);
